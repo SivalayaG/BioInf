@@ -5,6 +5,7 @@
 - Sivalaya Gangavarapu
 - Sri Hari Chandana Borra
 
+&nbsp;
 
 ## Instructions to run the code in command prompt
 - All source files are placed in the folder 'src' while the executable files remain in the main directory
@@ -18,6 +19,7 @@
 
 **_NOTE:_** All input files must be in the same folder as the application
 
+&nbsp;
 
 ## Tasks
 - Sequence generator
