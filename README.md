@@ -9,12 +9,12 @@
 
 ## Instructions to run the code in command prompt
 - All source files are placed in the folder 'src' while the executable files remain in the main directory
-- 'inputDNA.fasta' is the input to hw1.py
-- Run hw1.exe using the command ```hw1 inputDNA.fasta 5 0.5 outputDNA.fasta```
-- The output of hw1.py viz., 'outputDNA.fasta' is used as the input to hw2.py
-- Run hw2.exe using the command ```hw2 outputDNA.fasta 20 60 46 outputSeqPart.fasta```
-- The output of hw2.py viz., 'outputSeqPart.fasta' is used as the input to hw3.py
-- Run hw3.exe using the command ```hw3 outputSeqPart.fasta 1 -1 -2 outputSeqAssemble.fasta```
+- 'inputDNA.fasta' is the input to hw1
+- Run hw1 using the command ```hw1 inputDNA.fasta 5 0.5 outputDNA.fasta```
+- The output of hw1 viz., 'outputDNA.fasta' is used as the input to hw2
+- Run hw2 using the command ```hw2 outputDNA.fasta 20 60 46 outputSeqPart.fasta```
+- The output of hw2 viz., 'outputSeqPart.fasta' is used as the input to hw3
+- Run hw3 using the command ```hw3 outputSeqPart.fasta 1 -1 -2 outputSeqAssemble.fasta```
 - 'outputSeqAssemble.fasta' is the final output file that contains the final merged sequence in fasta format
 
 **_NOTE:_** All input files must be in the same folder as the application
